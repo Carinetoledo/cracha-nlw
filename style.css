@@ -33,7 +33,7 @@ main
   color: var(--grey);
 }
 .avatar {
-  width: 10rem;
+  width: 11.5rem;
   margin: 13rem auto 0;
 
   position: relative;
