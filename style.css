@@ -22,7 +22,6 @@ main
   width: 100vw;
   height: 100vh;
   min-height: 812px; 
-
 }
 
 .container {
@@ -83,16 +82,13 @@ ul {
 }
 @media (min-width: 768px) {
   main {
-    background-size: cover;
-    
+    background-size: cover;  
+
 .avatar {
   width: 11.5rem;
   margin: 10.5rem auto 0;
   position: relative;
 }
-
-
-
   }
 }
 
