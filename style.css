@@ -40,8 +40,7 @@ main
 .avatar span {
   position: absolute;
   top: -15px;
-  z-index: 1;
-  
+  z-index: 1;  
 }
 
 .avatar > img {
@@ -52,7 +51,6 @@ main
 }
 
 h1 {
-
   font-size: 1.5rem;
   margin-top: 1.5rem;
 }
@@ -78,8 +76,8 @@ ul {
   display: flex;
   gap: 0.75rem;
   justify-content: center;
-  
 }
+
 @media (min-width: 768px) {
   main {
     background-size: cover;  
@@ -103,7 +101,6 @@ ul {
       }
        .avatar {
         width: 10rem;
-        margin: 15rem auto 0;
+        margin: 14rem auto 0;
         position: relative;
        }
-      
